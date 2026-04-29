@@ -8,3 +8,23 @@ img {
 h1 {
      background-color: aqua;
 }
+mg {
+     width:100%;
+     height: 350px;
+     object-fit: cover;
+
+}
+
+h3 {
+     background-color: purple;
+}
+mg {
+     width:100%;
+     height: 350px;
+     object-fit: cover;
+
+}
+
+p {
+     background-color: palevioletred;
+}
